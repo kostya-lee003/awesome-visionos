@@ -20,6 +20,7 @@ Awesome Apple visionOS related content
 - [Critique](#critique)
 - [Speculation](#speculation)
 
+
 <a name="prototypes"></a>
 ## Prototypes
 <a name="github-repos"></a>
